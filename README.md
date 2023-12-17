@@ -12,7 +12,7 @@ Diversidade de inimigos proporcionando desafios variados.
 
 Sistema de loja para compras de itens.
 
-Este projeto foi uma oportunidade emocionante para mim de explorar a programação em C# e criar um jogo envolvente. Sinta-se à vontade para clonar o repositório, experimentar o jogo e contribuir com sugestões e melhorias.
+Este projeto foi uma oportunidade emocionante para mim de explorar a programação em C++ e criar um jogo envolvente. Sinta-se à vontade para clonar o repositório, experimentar o jogo e contribuir com sugestões e melhorias.
 
 Esse projeto foi desenvolvido no primeiro semestre de ANÁLISE E DESENVOLVIMENTO DE SISTEMA.
 
