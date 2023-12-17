@@ -6,6 +6,8 @@ Recursos do jogo:
 
 Sistema de batalha baseado em turnos, onde os jogadores podem escolher entre diferentes ações para enfrentar inimigos.
 
+Sistema de vida tanto do seu personagem quanto do inimigo.
+
 Diversidade de inimigos proporcionando desafios variados.
 
 Sistema de loja para compras de itens.
